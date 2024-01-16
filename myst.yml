@@ -6,6 +6,7 @@ project:
   keywords: []
   banner: banner.png
   open_access: true
+  github: https://github.com/rowanc1/continuous-science
   subject: Research Article
   venue: Curvenote
   license: CC-BY-4.0
