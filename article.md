@@ -1,14 +1,10 @@
 ---
 title: Continuous Science
 description: ''
+abstract: |
+  There is an opportunity to accelerate scientific discoveries by modernizing how scientists work and share.
+  We draw comparisons between the open-access scientific movement and the movements of open source and draw comparisons around continuous practices that are increasingly common place in software. These continuous practices can lead to massive speedups in communication (e.g. 46x) as well as increases in rigour (7x). The joint movements in open-science and data-science practices in research present opportunities to reimagine working and communication practices within communities, between communities, and for professional communication such as scientific articles and journals.
 ---
-
-+++ {"part": "abstract"}
-
-There is an opportunity to accelerate scientific discoveries by modernizing how scientists work and share.
-We draw comparisons between the open-access scientific movement and the movements of open source and draw comparisons around continuous practices that are increasingly common place in software. These continuous practices can lead to massive speedups in communication (e.g. 46x) as well as increases in rigour (7x). The joint movements in open-science and data-science practices in research present opportunities to reimagine working and communication practices within communities, between communities, and for professional communication such as scientific articles and journals.
-
-+++
 
 :::{important}
 This is a draft and very incomplete! There are a few good ideas on trying to sketch out the analogies between open-science and open-source development, specifically looking to Developer Operations (DevOps) teams and continuous practices.
@@ -40,7 +36,7 @@ A common objection to accelerating science is by pointing at all of the potentia
 
 These challenges and consequences are very real. Scientists already work 53.96 hours a week on average, and only about 36% of their time is actually spent on research (8% on grants, 32% on teaching, and 24% on service) [@Link2008time]. Graduate students are six times more likely to experience depression than the general population [@Evans2018Evidence]. There are [2.6 million](https://www.universityworldnews.com/post.php?story=20180905095203579) scientific papers published every year and it is growing. The time it takes for the peer-review process is over three months, in high profile journals like Nature that time has almost doubled over the past decade [@Powell2016Does]. Rejections are anywhere from 50-90% [@Grossmann2021Current] with valuable reviews and expertise coming months or even years after the work is completed.
 
-Simply saying “more of this, but faster” will exacerbate all of these problems. Instead, the way that science is conducted, evaluated and communicated requires radical change. Luckily, many of these changes are happening. There are institutional, national and cultural shifts towards open-access [@Else2018Radical] and there is beginning to be the normalization of preprints in many more fields [@Else2020How]. These are massive, and ongoing accomplishments that are changing the nature of scientific communication. The next decade of science-communication will be transformative (schematically shown in @fig:paradise as paradise!).
+Simply saying “more of this, but faster” will exacerbate all of these problems. Instead, the way that science is conducted, evaluated and communicated requires radical change. Luckily, many of these changes are happening. There are institutional, national and cultural shifts towards open-access [@Else2018Radical] and there is beginning to be the normalization of preprints in many more fields [@Else2020How]. These are massive, and ongoing accomplishments that are changing the nature of scientific communication. The next decade of science-communication will be transformative (schematically shown in [](#fig:paradise) as paradise!).
 
 ```{figure} images/force11-2019.png
 :name:fig:paradise
@@ -53,7 +49,7 @@ One of the questions that I think about is what comes _after_ all of science swi
 
 ## Comparing open-access & open-source
 
-One analogy to look at is comparing the production and sharing of software to the production and sharing of knowledge. These analogies are illuminating, but not prescriptive. The journey scientific communication and technical knowledge production will take is distinct from software engineering and the pressures are requirements of business are very different than academia.
+One analogy to look at is comparing the production and sharing of software to the production and sharing of knowledge. These analogies are illuminating, but not prescriptive. The journey scientific communication and technical knowledge production will take is distinct from software engineering and the pressures and requirements of business are very different than academia.
 
 > Scientific exploration and experimentation is different from programming. \
 > Writing is different than programming.
@@ -101,13 +97,13 @@ As a comparison, think of publishing a software package on PyPI where you can on
 
 The overhead for doing this needs to not be completed as professional typesetting at the end of a study, but as you are writing your research, notes, comments and presentations. The infrastructure for sharing this work, either privately within an community or at a later-date publicly needs to integrate and contribute to the wider scientific infrastructure.
 
-:::{tip} Example: Sharing Tutorials
+:::{prf:example} Example: Sharing Tutorials
 Importing a data-science tutorial on how to access a dataset in CryoCloud. The only way we have to do this today is with copy-paste and a text link that you hopefully remember, and maybe manually checking for updates when you have time.
 
 These are practical examples of working outside of the scientific collaboration ecosystem, where there is no ability to propagate attribution, updates, versions or credit. The failure of our lack of infrastructure for sharing means that there is no opportunity or incentive to improve and _iterate in place_ on an idea, every person who wants to include one of these tutorials for their community, course, or supplementary materials must also copy/paste the content and then start out on their own.
 :::
 
-:::{tip} Example: Seminars and Workshops
+:::{prf:example} Example: Seminars and Workshops
 SimPEG seminar hosted weekly (e.g. [here](https://seminars.simpeg.xyz/seminars/2022-04-cockett)), can be a way to showcase scholarly content in a more professional way, and have DOIs land on pages that are designed for the work and showcase it integrated to your other content.
 :::
 
