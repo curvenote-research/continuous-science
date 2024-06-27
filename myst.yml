@@ -1,25 +1,31 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
+  id: bf1e843b-1cb1-4826-801f-2040ebfbffb3
   title: Continuous Science
   subtitle: Accelerating the speed of scientific discoveries through changes in collaboration
-  keywords: []
+  keywords:
+    - open science
+    - continuous science
   banner: banner.png
-  open_access: true
-  github: https://github.com/rowanc1/continuous-science
+  github: https://github.com/curvenote-research/continuous-science
   subject: Research Article
-  venue: Curvenote
+  venue: Curvenote Research
   license: CC-BY-4.0
+  doi: https://doi.org/10.62329/WJCK7598
+  date: 2024-06-26
+  open_access: true
   authors:
     - name: Rowan Cockett
       orcid: 0000-0002-7859-8394
-      corresponding: false
-      roles:
-        - writing
-        - conceptualization
+      email: rowan@curvenote.com
+      github: rowanc1
+      twitter: rowancockett
       affiliations:
-        - Curvenote Inc
-        - Executable Books
+        - name: Curvenote Inc.
+          ror: https://ror.org/02mz0e468
+          url: https://curvenote.com
+  toc:
+    - file: article.md
 site:
   template: article-theme
-  nav: []
