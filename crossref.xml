@@ -1,0 +1,90 @@
+<doi_batch xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="5.3.1"
+  xmlns="http://www.crossref.org/schema/5.3.1" xmlns:jats="http://www.ncbi.nlm.nih.gov/JATS1"
+  xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:ai="http://www.crossref.org/AccessIndicators.xsd"
+  xsi:schemaLocation="http://www.crossref.org/schema/5.3.1 http://www.crossref.org/schemas/crossref5.3.1.xsd">
+  <head>
+    <doi_batch_id>8359457f-c84c-49dc-9570-2e306cd32a23</doi_batch_id>
+    <timestamp>1719464003157</timestamp>
+    <depositor>
+      <depositor_name>Curvenote</depositor_name>
+      <email_address>doi@curvenote.com</email_address>
+    </depositor>
+    <registrant>Crossref</registrant>
+  </head>
+  <body>
+    <posted_content>
+      <contributors>
+        <person_name sequence="first" contributor_role="author">
+          <given_name>Rowan</given_name>
+          <surname>Cockett</surname>
+          <affiliations>
+            <institution>
+              <institution_name>Curvenote Inc.</institution_name>
+              <institution_id type="ror">https://ror.org/02mz0e468</institution_id>
+            </institution>
+          </affiliations>
+          <ORCID>https://orcid.org/0000-0002-7859-8394</ORCID>
+          <alt-name>
+            <string-name>Rowan Cockett</string-name>
+          </alt-name>
+        </person_name>
+      </contributors>
+      <titles>
+        <title>Continuous Science</title>
+        <subtitle>Accelerating the speed of scientific discoveries through changes in collaboration</subtitle>
+      </titles>
+      <posted_date media_type="online">
+        <month>06</month>
+        <day>26</day>
+        <year>2024</year>
+      </posted_date>
+      <jats:abstract>
+        <jats:p>There is an opportunity to accelerate scientific discoveries by modernizing how scientists work and share. We draw comparisons between the open-access scientific movement and the movements of open source and draw comparisons around continuous practices that are increasingly common place in software. These continuous practices can lead to massive speedups in communication (e.g. 46x) as well as increases in rigour (7x). The joint movements in open-science and data-science practices in research present opportunities to reimagine communication practices within communities, between communities, and for professional communication such as scientific articles and journals.</jats:p>
+      </jats:abstract>
+      <ai:program name="AccessIndicators">
+        <ai:free_to_read></ai:free_to_read>
+        <ai:license_ref applies_to="vor">https://creativecommons.org/licenses/by/4.0/</ai:license_ref>
+      </ai:program>
+      <doi_data>
+        <doi>10.62329/WJCK7598</doi>
+        <resource content_version="vor">https://doi.curvenote.com/10.62329/WJCK7598</resource>
+      </doi_data>
+      <citation_list>
+        <citation key="Link2008time">
+          <doi>10.1016/j.econedurev.2007.04.002</doi>
+        </citation>
+        <citation key="Evans2018Evidence">
+          <doi>10.1038/nbt.4089</doi>
+        </citation>
+        <citation key="Powell2016Does">
+          <doi>10.1038/530148a</doi>
+        </citation>
+        <citation key="Grossmann2021Current">
+          <doi>10.12688/f1000research.27468.2</doi>
+        </citation>
+        <citation key="Else2018Radical">
+          <doi>10.1038/d41586-018-06178-7</doi>
+        </citation>
+        <citation key="Else2020How">
+          <doi>10.1038/d41586-020-03564-y</doi>
+        </citation>
+        <citation key="Cockett_2024">
+          <doi>10.62329/fmdw8234</doi>
+        </citation>
+        <citation key="Head_2021">
+          <doi>10.1145/3411764.3445648</doi>
+        </citation>
+        <citation key="Gewin2021Pandemic">
+          <doi>10.1038/d41586-021-00663-2</doi>
+        </citation>
+        <citation key="Algan2021Trust">
+          <doi>10.1073/pnas.2108576118</doi>
+        </citation>
+        <citation key="https://doi.org/10.4230/dagman.1.1.41">
+          <doi>10.4230/DAGMAN.1.1.41</doi>
+        </citation>
+      </citation_list>
+    </posted_content>
+  </body>
+</doi_batch>

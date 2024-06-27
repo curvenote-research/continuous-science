@@ -4,10 +4,12 @@ project:
   id: bf1e843b-1cb1-4826-801f-2040ebfbffb3
   title: Continuous Science
   subtitle: Accelerating the speed of scientific discoveries through changes in collaboration
+  description: There is an opportunity to accelerate scientific discoveries by modernizing how scientists work and share. We draw comparisons between the open-access scientific movement and the movements of open source and draw comparisons around continuous practices that are increasingly common place in software.
   keywords:
     - open science
     - continuous science
   banner: banner.png
+  thumbnail: thumbnail.png
   github: https://github.com/curvenote-research/continuous-science
   subject: Research Article
   venue: Curvenote Research
